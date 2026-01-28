@@ -8,8 +8,8 @@ node_modules/
 *.err
 
 # production
-/build
-/dist
+build
+dist
 
 # environment variables
 .env
