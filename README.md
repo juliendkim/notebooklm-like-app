@@ -1,5 +1,7 @@
 # NotebookLM-like Application
 
+![Screenshot](screenshot.png)
+
 <details>
 <summary>🇰🇷 한국어 설명 (Korean Description)</summary>
 
